@@ -7,7 +7,7 @@ public class Hello {
 
     @GetMapping("/hi")
     public String hi() {
-        return "Hello World";
+        return "Hi Test file...I'm good!!!";
     }
 
 }
