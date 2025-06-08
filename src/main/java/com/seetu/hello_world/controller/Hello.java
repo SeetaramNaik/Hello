@@ -10,7 +10,4 @@ public class Hello {
         return "Hi Test file...I'm good!!!";
     }
 
-    //Dummy comment
-    
-
 }
